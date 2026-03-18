@@ -36,6 +36,7 @@ def sho_sho_helix(gamma, L_old):
     z = L_old * theta  # Vertical Propulsion (The Odd Tail)
     return r, theta, z
 ```
+<img src="image/newplot.png"/>
 ## 📖 Research Lineage
 
 2023: New Odd Numbers Identity and the None-trivial Zeros of Zeta Function (ResearchGate).
