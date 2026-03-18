@@ -46,4 +46,4 @@ def visualize_dynamic_helix(csv_file='sultanian_manifold_10k.csv', tightness_fac
     fig.show()
 
 # Try changing this value: 0.5 (Tight), 1.0 (Standard), 2.0 (Stretched)
-visualize_dynamic_helix(tightness_factor=0.1)
+visualize_dynamic_helix(tightness_factor=0.1,csv_file='sultanian_topological_gates/data/sultanian_manifold_10k.csv')

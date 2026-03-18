@@ -73,4 +73,4 @@ def visualize_sultanian_manifold(csv_file='sultanian_manifold_10k.csv'):
 
 if __name__ == '__main__':
     # Make sure you've generated the data first!
-    visualize_sultanian_manifold()
+    visualize_sultanian_manifold(csv_file='sultanian_topological_gates/data/sultanian_manifold_10k.csv')

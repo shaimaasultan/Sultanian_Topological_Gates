@@ -92,4 +92,4 @@ def verify_sultanian_path(csv_filename='zeros_100.csv'):
 # --- EXECUTION ---
 # Ensure you have a file named 'sultanian_manifold_10k.csv' with a header 'Gamma'
 if __name__ == "__main__":
-    verify_sultanian_path('simulations/sultanian_manifold_10k.csv')
+    verify_sultanian_path('sultanian_topological_gates/data/sultanian_manifold_10k.csv')
