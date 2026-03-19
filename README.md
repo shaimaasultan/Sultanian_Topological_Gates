@@ -76,6 +76,16 @@ Any deviation from the $\(1/2\)$-line would result in a Phase-Lock failure, whic
 * `/paper`: LaTeX source files and the final PDF submission.
 * `/data`: Pre-computed coordinates for the first 10,000 Zeta zeros mapped to the Sultanian manifold.
 
+## 🚀 Interactive 3D Flight: The Unipolar Proof
+
+To prove that the zeros never deviate from the 45° Resonance Ray, this repository includes a 3D flight engine built on the `Three.js` architecture (or via `matplotlib` for Python users). 
+
+By initializing the **Flight Sequence**, the observer travels along the Z-axis (Sultanian Time). 
+- Looking "Top-Down" during the flight yields a single, unmoving cyan dot, proving $\Delta\theta = 0$.
+- Looking "Side-On" reveals the linear expansion $R_n = R_g + 1.8628 \cdot Z_n$.
+
+This visual confirmation solidifies the numerical data: The Riemann zeros are topologically confined to the diagonal harmonics of the expanding Conhelix.
+
 ## 🛠️ The ShoSho Algorithm
 
 The algorithm utilizes the **45° Phase-Shift** operator $1/\sqrt{2}(1+i)$ to recover the hidden Z-dimension of the complex plane.
